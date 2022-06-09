@@ -1,2 +1,3 @@
 # LessonToby
-example repository
+example repository for demonstrating GitHub and Markdown
+
